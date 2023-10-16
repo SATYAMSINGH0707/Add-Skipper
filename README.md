@@ -1,5 +1,5 @@
 Add-Skipper
-If we use the project, we don't need to by YouTube premium .
+If we use the project, we don't need to buy YouTube premium .
 some mind blowing fact-----------------------------------------------------------------------------------------------------------------------------------------------------------
 Turns out adding a ‘period’ at the end of the domain name in the URL bar does the magic. For example, if a video arrives with an
  URL “www.youtube.com/watch”, simply adding a ‘period’ after the domain name such as “www.youtube.com./watch” does the magic.
